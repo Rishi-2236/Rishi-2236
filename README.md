@@ -7,7 +7,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/saho14rishikesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saho14rishikesh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rishikesh sahoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishikesh sahoo" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/rishikesh-sahoo-7066412b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishikesh sahoo" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22699953" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22699953" height="30" width="40" /></a>
 <a href="https://instagram.com/rishi_2236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishi_2236" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@rishikeshsahoo22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@rishikeshsahoo22" height="30" width="40" /></a>
